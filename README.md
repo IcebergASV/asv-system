@@ -8,10 +8,7 @@
 
 ## Setup
 ### Docker and Docker Desktop Install
-It is necessary to install Docker and it is optional to install Docker Desktop. I would recommend installing Docker Desktop because the GUI makes it easier to manage and visualize all docker content on your machine.
 - [Docker Installation](https://docs.docker.com/engine/install/ubuntu/)
-- [Docker Desktop Installation](https://docs.docker.com/desktop/install/ubuntu/)
-
 ### Install NVIDIA Drivers
 View information about your GPU:  
 ```hwinfo --gfxcard --short```  
