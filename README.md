@@ -4,7 +4,7 @@
 
 ## SSH Connection with Jetson TX2
 
-The Jetson is not set up to be a server. Do not assume the Jetson is powered on and you can connect to it remotely. This procedure is meant to provide an option for working on the Jetson TX2 using your host device.
+The Jetson is not set up to be a server. Do not assume the Jetson is powered on and you can connect to it remotely. This procedure is meant to provide an option for working on the Jetson TX2.
 
 1. Get IP address of Jetson TX2: 
 
@@ -19,8 +19,12 @@ ifconfig
 ssh icebergasv@<ip-address>
 
 ```
-Example:
-<img src="https://user-images.githubusercontent.com/92492605/218271575-f52604c0-daf6-4b34-b335-b051ccee7760.png" width="800" height="200" />
+Then enter login password to the Jetson TX2  
 
+Example:  
 
+<img src="https://user-images.githubusercontent.com/92492605/218271575-f52604c0-daf6-4b34-b335-b051ccee7760.png"/>
+
+### Passwordless SSH Connection
+Follow this [tutorial](https://phoenixnap.com/kb/setup-passwordless-ssh)
 
