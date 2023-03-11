@@ -1,0 +1,8 @@
+<!--
+Launches MAVROS nodes for communicating with PixHawk.
+Model: HolyBro Pixhawk 6C
+-->
+<launch>
+<include file="$(find mavros)/launch/px4.launch"/>
+ </launch>
+
