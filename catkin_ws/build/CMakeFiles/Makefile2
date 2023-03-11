@@ -688,6 +688,24 @@ clean: realsense-ros/realsense2_description/CMakeFiles/run_tests_realsense2_desc
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory system_startup_pkg
+
+# Convenience name for "all" pass in the directory.
+system_startup_pkg/all:
+
+.PHONY : system_startup_pkg/all
+
+# Convenience name for "clean" pass in the directory.
+system_startup_pkg/clean:
+
+.PHONY : system_startup_pkg/clean
+
+# Convenience name for "preinstall" pass in the directory.
+system_startup_pkg/preinstall:
+
+.PHONY : system_startup_pkg/preinstall
+
+#=============================================================================
 # Directory level rules for directory ddynamic_reconfigure
 
 # Convenience name for "all" pass in the directory.

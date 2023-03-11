@@ -50,6 +50,13 @@
 /home/icebergasv/asv-system/catkin_ws/build/realsense-ros/realsense2_description/CMakeFiles/_run_tests_realsense2_description_nosetests.dir
 /home/icebergasv/asv-system/catkin_ws/build/realsense-ros/realsense2_description/CMakeFiles/run_tests_realsense2_description_nosetests.dir
 /home/icebergasv/asv-system/catkin_ws/build/realsense-ros/realsense2_description/CMakeFiles/run_tests_realsense2_description_nosetests_tests.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/install/strip.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/edit_cache.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/list_install_components.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/test.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/install/local.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/rebuild_cache.dir
+/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/CMakeFiles/install.dir
 /home/icebergasv/asv-system/catkin_ws/build/ddynamic_reconfigure/CMakeFiles/install/strip.dir
 /home/icebergasv/asv-system/catkin_ws/build/ddynamic_reconfigure/CMakeFiles/install/local.dir
 /home/icebergasv/asv-system/catkin_ws/build/ddynamic_reconfigure/CMakeFiles/install.dir

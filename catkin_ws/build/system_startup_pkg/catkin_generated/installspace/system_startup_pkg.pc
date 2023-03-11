@@ -1,0 +1,8 @@
+prefix=/home/icebergasv/asv-system/catkin_ws/install
+
+Name: system_startup_pkg
+Description: Description of system_startup_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

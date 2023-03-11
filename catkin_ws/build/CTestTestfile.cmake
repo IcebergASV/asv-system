@@ -6,5 +6,6 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("realsense-ros/realsense2_description")
+subdirs("system_startup_pkg")
 subdirs("ddynamic_reconfigure")
 subdirs("realsense-ros/realsense2_camera")

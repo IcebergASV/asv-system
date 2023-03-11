@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/icebergasv/asv-system/catkin_ws/build/gtest/cmake_install.cmake")
   include("/home/icebergasv/asv-system/catkin_ws/build/realsense-ros/realsense2_description/cmake_install.cmake")
+  include("/home/icebergasv/asv-system/catkin_ws/build/system_startup_pkg/cmake_install.cmake")
   include("/home/icebergasv/asv-system/catkin_ws/build/ddynamic_reconfigure/cmake_install.cmake")
   include("/home/icebergasv/asv-system/catkin_ws/build/realsense-ros/realsense2_camera/cmake_install.cmake")
 
