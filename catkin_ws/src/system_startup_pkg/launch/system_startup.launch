@@ -1,4 +1,4 @@
 <launch>
 
-<include file="$(find realsense2_camera)/launch/rs_camera.launch"/>
+<include file="$(find sensor_launch_pkg)/launch/realsense_camera.launch"/>
  </launch>

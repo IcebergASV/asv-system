@@ -1,2 +1,2 @@
-ddynamic_reconfigure:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:system_startup_pkg
+ddynamic_reconfigure:realsense-ros/realsense2_camera:realsense-ros/realsense2_description:sensor_launch_pkg:system_startup_pkg
 -DCATKIN_DEVEL_PREFIX=/home/icebergasv/asv-system/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/icebergasv/asv-system/catkin_ws/install -G Unix Makefiles
