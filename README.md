@@ -28,7 +28,7 @@ Example:
 ### Passwordless SSH Connection
 Follow this [tutorial](https://phoenixnap.com/kb/setup-passwordless-ssh)
 
-## Systemd Launch asv-system On Bootup
+# Systemd Launch asv-system On Bootup
 This section includes documentation of how we are launching our ROS project upon booting up the Jetson TX2.   
 We directly used the [Running ROS Nodes on Boot](https://mshields.name/blog/2022-03-16-running-ros-nodes-on-boot/) tutorial of how to create the system services.   
 
