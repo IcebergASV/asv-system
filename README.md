@@ -2,6 +2,14 @@
 
 # ASV System
 
+## Startup System
+
+```
+cd /home/icebergasv/asv-system/catkin_ws_V2 
+rosrun startup_script_rosbag_pkg startup_rosbag.sh 
+
+```
+
 ## SSH Connection with Jetson TX2
 
 The Jetson is not set up to be a server. Do not assume the Jetson is powered on and you can connect to it remotely. This procedure is meant to provide an option for working on the Jetson TX2.
