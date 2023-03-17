@@ -1,0 +1,175 @@
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_yolo[0m
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_PropInProgress[0m
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_lisp[0m
+[  0%] Built target geographic_msgs_generate_messages_py
+[  0%] Built target uuid_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_Prop[0m
+[  0%] Built target mavros_msgs_generate_messages_py
+[  0%] Built target _navigation_generate_messages_check_deps_PropInProgress
+[  0%] Built target _navigation_generate_messages_check_deps_yolo
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_GeoPointRange[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _navigation_generate_messages_check_deps_Prop
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_Compass[0m
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_SimpleGPS[0m
+[35m[1mScanning dependencies of target _navigation_generate_messages_check_deps_PropArray[0m
+[  0%] Built target _navigation_generate_messages_check_deps_GeoPointRange
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target _navigation_generate_messages_check_deps_SimpleGPS
+[  0%] Built target _navigation_generate_messages_check_deps_Compass
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _navigation_generate_messages_check_deps_PropArray
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target geographic_msgs_generate_messages_eus
+[  0%] Built target mavros_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target mavros_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target mavros_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target uuid_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target uuid_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geographic_msgs_generate_messages_nodejs[0m
+[  0%] Built target geographic_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_eus[0m
+[  0%] Built target mavros_msgs_generate_messages_lisp
+[  0%] Built target geographic_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target uuid_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target navigation_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target navigation_generate_messages_py[0m
+[  0%] Built target uuid_msgs_generate_messages_py
+[  1%] [34m[1mGenerating C++ code from navigation/GeoPointRange.msg[0m
+[  3%] [34m[1mGenerating Python from MSG navigation/GeoPointRange[0m
+[35m[1mScanning dependencies of target navigation_generate_messages_eus[0m
+[35m[1mScanning dependencies of target navigation_generate_messages_lisp[0m
+[  5%] [34m[1mGenerating EusLisp code from navigation/GeoPointRange.msg[0m
+[  7%] [34m[1mGenerating Lisp code from navigation/GeoPointRange.msg[0m
+[  9%] [34m[1mGenerating Lisp code from navigation/yolo.msg[0m
+[ 11%] [34m[1mGenerating EusLisp code from navigation/yolo.msg[0m
+[ 13%] [34m[1mGenerating Lisp code from navigation/PropInProgress.msg[0m
+[ 15%] [34m[1mGenerating Python from MSG navigation/yolo[0m
+[ 16%] [34m[1mGenerating C++ code from navigation/yolo.msg[0m
+[ 18%] [34m[1mGenerating Lisp code from navigation/SimpleGPS.msg[0m
+[ 20%] [34m[1mGenerating EusLisp code from navigation/PropInProgress.msg[0m
+[ 22%] [34m[1mGenerating Lisp code from navigation/Prop.msg[0m
+[ 24%] [34m[1mGenerating Lisp code from navigation/Compass.msg[0m
+[ 26%] [34m[1mGenerating EusLisp code from navigation/SimpleGPS.msg[0m
+[ 28%] [34m[1mGenerating Python from MSG navigation/PropInProgress[0m
+[ 30%] [34m[1mGenerating Lisp code from navigation/PropArray.msg[0m
+[ 32%] [34m[1mGenerating EusLisp code from navigation/Prop.msg[0m
+[ 33%] [34m[1mGenerating C++ code from navigation/PropInProgress.msg[0m
+[ 33%] Built target navigation_generate_messages_lisp
+[ 35%] [34m[1mGenerating Python from MSG navigation/SimpleGPS[0m
+[ 37%] [34m[1mGenerating EusLisp code from navigation/Compass.msg[0m
+[ 39%] [34m[1mGenerating EusLisp code from navigation/PropArray.msg[0m
+[ 41%] [34m[1mGenerating EusLisp manifest code for navigation[0m
+[35m[1mScanning dependencies of target navigation_generate_messages_nodejs[0m
+[ 43%] [34m[1mGenerating C++ code from navigation/SimpleGPS.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG navigation/Prop[0m
+[ 47%] [34m[1mGenerating Javascript code from navigation/GeoPointRange.msg[0m
+[ 49%] [34m[1mGenerating Javascript code from navigation/yolo.msg[0m
+[ 50%] [34m[1mGenerating Javascript code from navigation/PropInProgress.msg[0m
+[ 52%] [34m[1mGenerating Python from MSG navigation/Compass[0m
+[ 54%] [34m[1mGenerating Javascript code from navigation/SimpleGPS.msg[0m
+[ 56%] [34m[1mGenerating C++ code from navigation/Prop.msg[0m
+[ 58%] [34m[1mGenerating Javascript code from navigation/Prop.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from navigation/Compass.msg[0m
+[ 62%] [34m[1mGenerating Python from MSG navigation/PropArray[0m
+[ 64%] [34m[1mGenerating Javascript code from navigation/PropArray.msg[0m
+[ 66%] [34m[1mGenerating C++ code from navigation/Compass.msg[0m
+[ 66%] Built target navigation_generate_messages_nodejs
+[ 67%] [34m[1mGenerating C++ code from navigation/PropArray.msg[0m
+[ 69%] [34m[1mGenerating Python msg __init__.py for navigation[0m
+[ 69%] Built target navigation_generate_messages_eus
+[ 69%] Built target navigation_generate_messages_cpp
+[ 69%] Built target navigation_generate_messages_py
+[35m[1mScanning dependencies of target fake_compass_headings_node[0m
+[35m[1mScanning dependencies of target fake_robot_coords_node[0m
+[35m[1mScanning dependencies of target fake_yolo_boxes_node[0m
+[35m[1mScanning dependencies of target distance_finder_node[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/fake_robot_coords_node.dir/src/fake_robot_coords.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/fake_yolo_boxes_node.dir/src/fake_yolo_boxes.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/fake_compass_headings_node.dir/src/fake_compass_headings.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/distance_finder_node.dir/src/distance_finder.cpp.o[0m
+[ 79%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/fake_yolo_boxes_node[0m
+[ 81%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/fake_robot_coords_node[0m
+[ 83%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/fake_compass_headings_node[0m
+[ 83%] Built target fake_yolo_boxes_node
+[ 83%] Built target fake_compass_headings_node
+[ 83%] Built target fake_robot_coords_node
+[35m[1mScanning dependencies of target angle_finder_node[0m
+[35m[1mScanning dependencies of target fake_bbox_angles_node[0m
+[35m[1mScanning dependencies of target prop_mapping_node[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/angle_finder_node.dir/src/angle_finder.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/fake_bbox_angles_node.dir/src/fake_bbox_angles.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/prop_mapping_node.dir/src/prop_mapping.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/distance_finder_node[0m
+[ 90%] Built target distance_finder_node
+[35m[1mScanning dependencies of target navigation_generate_messages[0m
+[ 90%] Built target navigation_generate_messages
+[35m[1mScanning dependencies of target coord_finder_node[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/coord_finder_node.dir/src/coord_finder.cpp.o[0m
+[ 94%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/fake_bbox_angles_node[0m
+[ 94%] Built target fake_bbox_angles_node
+[ 96%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/angle_finder_node[0m
+[ 98%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/prop_mapping_node[0m
+[ 98%] Built target angle_finder_node
+[ 98%] Built target prop_mapping_node
+[100%] [32m[1mLinking CXX executable /home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/lib/navigation/coord_finder_node[0m
+[100%] Built target coord_finder_node

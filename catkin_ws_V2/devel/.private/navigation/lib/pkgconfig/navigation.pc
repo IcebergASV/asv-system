@@ -1,0 +1,8 @@
+prefix=/home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation
+
+Name: navigation
+Description: Description of navigation
+Version: 0.0.0
+Cflags: -I/home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

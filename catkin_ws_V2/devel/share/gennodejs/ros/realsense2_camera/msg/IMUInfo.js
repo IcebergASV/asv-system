@@ -1,0 +1,1 @@
+/home/icebergasv/asv-system/catkin_ws_V2/devel/.private/realsense2_camera/share/gennodejs/ros/realsense2_camera/msg/IMUInfo.js

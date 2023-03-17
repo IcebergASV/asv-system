@@ -1,0 +1,6 @@
+devel_space: /home/icebergasv/asv-system/catkin_ws_V2/devel
+install: false
+install_space: /home/icebergasv/asv-system/catkin_ws_V2/install
+profile: default
+source_space: /home/icebergasv/asv-system/catkin_ws_V2/src
+workspace: /home/icebergasv/asv-system/catkin_ws_V2

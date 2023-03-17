@@ -273,10 +273,16 @@ SET_USER_BREAK_AT_STARTUP:BOOL=OFF
 SITE:STRING=icebergasv-desktop
 
 //LSB Distrib tag
+TRUE:BOOL=
+
+//LSB Distrib tag
 UBUNTU:BOOL=TRUE
 
 //LSB Distrib - codename tag
 UBUNTU_BIONIC:BOOL=TRUE
+
+//LSB Distrib - codename tag
+_:BOOL=TRUE
 
 //Path to a file.
 _file_name:FILEPATH=/home/icebergasv/asv-system/catkin_ws/src/ddynamic_reconfigure/test/ddynamic_reconfigure.test
@@ -359,6 +365,9 @@ gennodejs_DIR:PATH=/opt/ros/melodic/share/gennodejs/cmake
 //The directory containing a CMake configuration file for genpy.
 genpy_DIR:PATH=/opt/ros/melodic/share/genpy/cmake
 
+//The directory containing a CMake configuration file for geographic_msgs.
+geographic_msgs_DIR:PATH=/opt/ros/melodic/share/geographic_msgs/cmake
+
 //The directory containing a CMake configuration file for geometry_msgs.
 geometry_msgs_DIR:PATH=/opt/ros/melodic/share/geometry_msgs/cmake
 
@@ -417,6 +426,9 @@ image_transport_DIR:PATH=/opt/ros/melodic/share/image_transport/cmake
 //Path to a library.
 lib:FILEPATH=/opt/ros/melodic/lib/libdiagnostic_updater.so
 
+//The directory containing a CMake configuration file for mavros_msgs.
+mavros_msgs_DIR:PATH=/opt/ros/melodic/share/mavros_msgs/cmake
+
 //The directory containing a CMake configuration file for message_filters.
 message_filters_DIR:PATH=/opt/ros/melodic/share/message_filters/cmake
 
@@ -428,6 +440,12 @@ message_runtime_DIR:PATH=/opt/ros/melodic/share/message_runtime/cmake
 
 //The directory containing a CMake configuration file for nav_msgs.
 nav_msgs_DIR:PATH=/opt/ros/melodic/share/nav_msgs/cmake
+
+//Value Computed by CMake
+navigation_BINARY_DIR:STATIC=/home/icebergasv/asv-system/catkin_ws/build/navigation_pkg
+
+//Value Computed by CMake
+navigation_SOURCE_DIR:STATIC=/home/icebergasv/asv-system/catkin_ws/src/navigation_pkg
 
 //The directory containing a CMake configuration file for nodelet.
 nodelet_DIR:PATH=/opt/ros/melodic/share/nodelet/cmake
@@ -524,6 +542,9 @@ tf2_ros_DIR:PATH=/opt/ros/melodic/share/tf2_ros/cmake
 
 //The directory containing a CMake configuration file for tf.
 tf_DIR:PATH=/opt/ros/melodic/share/tf/cmake
+
+//The directory containing a CMake configuration file for uuid_msgs.
+uuid_msgs_DIR:PATH=/opt/ros/melodic/share/uuid_msgs/cmake
 
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/melodic/share/xmlrpcpp/cmake

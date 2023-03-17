@@ -1,0 +1,8 @@
+prefix=/home/icebergasv/asv-system/catkin_ws_V2/install
+
+Name: sensor_launch_pkg
+Description: Description of sensor_launch_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

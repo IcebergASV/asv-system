@@ -1,0 +1,1 @@
+/home/icebergasv/asv-system/catkin_ws_V2/devel/.private/system_startup_pkg/lib/pkgconfig/system_startup_pkg.pc

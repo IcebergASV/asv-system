@@ -1,0 +1,15 @@
+
+<!--
+Top level launch file for the ASV. 
+-->
+
+
+<launch>
+	<include file="$(find sensor_launch_pkg)/launch/realsense_camera.launch"/>
+	<include file="$(find sensor_launch_pkg)/launch/pixhawk.launch"/>
+	<include file="$(find sensor_launch_pkg)/launch/lidar.launch"/>
+
+	<!-- Launch navigation nodes-->
+	<include file="$(find navigation)/launch/prop_finder.launch"/>
+ </launch>
+

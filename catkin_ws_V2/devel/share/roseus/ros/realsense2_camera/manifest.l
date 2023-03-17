@@ -1,0 +1,1 @@
+/home/icebergasv/asv-system/catkin_ws_V2/devel/.private/realsense2_camera/share/roseus/ros/realsense2_camera/manifest.l

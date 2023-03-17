@@ -1,0 +1,1 @@
+/home/icebergasv/asv-system/catkin_ws_V2/devel/.private/navigation/share/roseus/ros/navigation/manifest.l

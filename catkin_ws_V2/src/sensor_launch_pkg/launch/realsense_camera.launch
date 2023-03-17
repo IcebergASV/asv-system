@@ -1,0 +1,10 @@
+
+
+<!--
+Launches realsense2 camera nodes
+Camera Model: Intel Realsense D435 
+-->
+<launch>
+<include file="$(find realsense2_camera)/launch/rs_camera.launch"/>
+ </launch>
+
